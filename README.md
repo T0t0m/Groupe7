@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Guide interne (factice) : Utilisation de Git chez **ExampleCorp**
 
 > **But** : fournir une documentation claire et opérationnelle pour l'utilisation de Git au sein de l'entreprise.
