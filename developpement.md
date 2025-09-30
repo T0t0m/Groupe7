@@ -17,6 +17,8 @@ Voici les commandes de base que j’utilise dans ce projet :
 Nous travaillons en équipe avec **plusieurs branches** :
 - Chaque personne crée une branche à son nom (ex : `intissar`, `amine`, `Gaspar`, `Tom`, `Georges`).
 - On ajoute nos fichiers ou nos parties de documentation.
+- modification du fichier par Gaspar : 
+on peux aussi merge avec d'autre branch que la branch main pour modifier les travaux des collaborateurs
 - Ensuite, on ouvre une **Pull Request** pour fusionner avec la branche `main`.
 
 ---
