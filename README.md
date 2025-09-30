@@ -267,8 +267,3 @@ BREAKING CHANGE: description
 ---
 
 *Document factice généré automatiquement — à adapter avant usage en production.*
-=======
-Coucou
-
-Modification pour une fork
->>>>>>> gaspar
